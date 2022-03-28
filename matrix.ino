@@ -139,7 +139,7 @@ timeCount = 0;
     digitalWrite(COL_7, (~b >> 6) & 0x01); // Get the 7th bit: 00000010
     digitalWrite(COL_8, (~b >> 7) & 0x01); // Get the 8th bit: 00000001
 }*/
-#define ROW_1 9
+//#define ROW_1 9
 //#define ROW_2 12
 //#define ROW_3 7
 //#define ROW_4 13
